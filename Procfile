@@ -1,1 +1,1 @@
-bot: sbt run src\main\scala\Main.scala
+bot: target/universal/stage/bin/nyetproxybot
